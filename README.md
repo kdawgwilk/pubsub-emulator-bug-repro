@@ -52,7 +52,7 @@ Node processes persist after function execution, accumulating with each new PubS
 
 ## Related Issues
 
-- [Link to the GitHub issue when available]
+- Issue: https://github.com/firebase/firebase-tools/issues/8113
 
 ## Repository Structure
 
